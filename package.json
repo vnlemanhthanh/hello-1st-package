@@ -1,17 +1,17 @@
 {
-  "name": "hello-npm",
+  "name": "hello-1st-package",
   "version": "1.0.0",
   "description": "A simple demo npm package that says hello",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vnlemanhthanh/hello-npm.git"
+    "url": "git+https://github.com/vnlemanhthanh/hello-1st-package.git"
   },
   "author": "Vương Bụi Trần tu sĩ <vnlemanhthanh@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vnlemanhthanh/hello-npm/issues"
+    "url": "https://github.com/vnlemanhthanh/hello-1st-package/issues"
   },
-  "homepage": "https://github.com/vnlemanhthanh/hello-npm#readme",
+  "homepage": "https://github.com/vnlemanhthanh/hello-1st-package#readme",
   "keywords": [
     "hello",
     "demo",
