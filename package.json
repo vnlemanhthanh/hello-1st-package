@@ -1,6 +1,6 @@
 {
   "name": "hello-1st-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple demo npm package that says hello",
   "repository": {
     "type": "git",
